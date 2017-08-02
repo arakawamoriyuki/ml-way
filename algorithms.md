@@ -43,6 +43,7 @@
 > MachineLearning, Classification, Supervised, Value, Text, Image
 
 - 入力データが一部欠損していても学習可能な分類
+- [scikit-learnとgensimでニュース記事を分類する](http://qiita.com/yasunori/items/31a23eb259482e4824e2)
 - [jupyter notebook](https://github.com/arakawamoriyuki/meetup024/blob/master/10_random_forest.ipynb)
 
 ### K-Means
@@ -87,13 +88,13 @@
 
 > NeuralNetwork, Regression, Supervised, Text, Image, Movie, Value
 
-- テキストなど、時系列データ分類
+- テキストなど、時系列データ予測
 - [再帰型ネットワークと長・短期記憶についての初心者ガイド](https://deeplearning4j.org/ja/lstm)
 - [github keras lstm_text_generation](https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py)
 
 ### CONV LSTM
 
-> NeuralNetwork, Classification, Supervised, Image, Movie
+> NeuralNetwork, Regression, Supervised, Image, Movie
 
 - 画像、動画などの時系列データ分類
 - [TensorFlowで畳み込みLSTMを用いた動画のフレーム予測](http://qiita.com/t_shinmura/items/066b696d82f9919480ae)
@@ -158,6 +159,7 @@
 > MachineLearning?, NeuralNetwork?, Regression, Supervised, Image
 
 - 画像から関節位置の対応付け
+- ボーンアニメーション作成に使えそう?
 - [openpose github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ### FCN

@@ -13,11 +13,14 @@
 - [機械学習の為のopencv入門](http://qiita.com/icoxfog417/items/53e61496ad980c41a08e)
 - [機械学習・ディープラーニング・強化学習・ベイズを学べる無料講座](http://s0sem0y.hatenablog.com/entry/2017/07/22/003237)
 - [データ解析のための統計モデリング入門（緑本）の読書メモ（PythonとStanで）](http://qiita.com/tackey/items/96171be393912fb333b3)
+- [CVPR2017論文まとめ コンピュータービジョンカンファレンス](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)
 
 ## Tools
 
 - [playground tensorflow 視覚的にニューラルネットを理解する](http://playground.tensorflow.org)
 - [facebook製 時系列回帰予測 fbprophet](https://techplay.jp/slide/166152)
+- [Jupyter Notebookに埋め込むことができるgoogle製 視覚化ツール](https://pair-code.github.io/facets/)
+- [holoviews グラフライブラリ](http://qiita.com/driller/items/c21200460548235fa1db)
 - [opencv 顔などのセグメント検出も可能](https://github.com/opencv/opencv)
 - [ios ml toolkit](https://developer.apple.com/machine-learning/)
 - [webdnn ブラウザで機械学習](https://mil-tokyo.github.io/webdnn/)
