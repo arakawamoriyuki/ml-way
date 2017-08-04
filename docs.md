@@ -14,6 +14,7 @@
 - [機械学習・ディープラーニング・強化学習・ベイズを学べる無料講座](http://s0sem0y.hatenablog.com/entry/2017/07/22/003237)
 - [データ解析のための統計モデリング入門（緑本）の読書メモ（PythonとStanで）](http://qiita.com/tackey/items/96171be393912fb333b3)
 - [CVPR2017論文まとめ コンピュータービジョンカンファレンス](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)
+- [arxivtimes 論文まとめ](http://arxivtimes.herokuapp.com/)
 
 ## Tools
 
