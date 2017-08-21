@@ -15,6 +15,7 @@
 - [データ解析のための統計モデリング入門（緑本）の読書メモ（PythonとStanで）](http://qiita.com/tackey/items/96171be393912fb333b3)
 - [CVPR2017論文まとめ コンピュータービジョンカンファレンス](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)
 - [arxivtimes 論文まとめ](http://arxivtimes.herokuapp.com/)
+- [データマイニング+WEB ＠東京(#TokyoWebmining](http://d.hatena.ne.jp/hamadakoichi/)
 
 ## Tools
 
@@ -24,7 +25,8 @@
 - [holoviews グラフライブラリ](http://qiita.com/driller/items/c21200460548235fa1db)
 - [opencv 顔などのセグメント検出も可能](https://github.com/opencv/opencv)
 - [ios ml toolkit](https://developer.apple.com/machine-learning/)
-- [webdnn ブラウザで機械学習](https://mil-tokyo.github.io/webdnn/)
+- [webdnn jsでdeep learning](https://mil-tokyo.github.io/webdnn/)
+- [deeplearnjs jsでdeep learning](https://pair-code.github.io/deeplearnjs/index.html#demos)
 - [pycall rubyからpython呼び出し](https://github.com/mrkn/pycall)
 
 - [fontjoy 最適なフォントの組み合わせを提示](http://fontjoy.com/)
